@@ -1,6 +1,6 @@
 # Task Scheduling for Quantitative Trading Systems
 
-An advanced operating systems project implementing and comparing multiple task scheduling algorithms in the context of algorithmic trading infrastructure.
+An operating systems project implementing and comparing multiple task scheduling algorithms in the context of algorithmic trading infrastructure.
 
 ## Project Overview
 
