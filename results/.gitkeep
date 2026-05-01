@@ -1,0 +1,7 @@
+# Results Directory
+
+This directory contains the output from scheduler experiments:
+- CSV files with detailed job-level data
+- Comparison plots and visualizations
+
+Files are automatically generated when you run experiments.

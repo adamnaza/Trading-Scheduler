@@ -1,0 +1,5 @@
+# Data Directory
+
+This directory contains cached market data from APIs.
+
+Files are automatically downloaded and cached here to avoid API rate limits.
