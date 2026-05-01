@@ -128,5 +128,3 @@ scalability tables, figures, and discussion.
 ## Author
 
 Adam Che Nazahatuhisamudin  
-Penn State University-Harrisburg  
-Advanced Operating Systems - Spring 2026
